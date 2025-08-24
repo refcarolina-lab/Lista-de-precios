@@ -1,16 +1,86 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8"/>
-<title>Precios Online</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Precios Online</title>
+  <style>
+    body{font-family:system-ui,Arial,sans-serif;background:#0f172a;color:#e2e8f0;margin:0}
+    header{padding:16px 20px;background:#111827;position:sticky;top:0;border-bottom:1px solid #1f2937}
+    .container{max-width:1100px;margin:24px auto;padding:0 16px}
+    .card{background:#111827;border:1px solid #1f2937;border-radius:12px;padding:16px}
+    .row{display:flex;gap:10px;flex-wrap:wrap}
+    input,select,button{border-radius:10px;border:1px solid #374151;background:#0b1220;color:#e2e8f0;padding:10px 12px}
+    table{width:100%;border-collapse:collapse;margin-top:12px}
+    th,td{padding:10px;border-bottom:1px solid #1f2937;font-size:14px}
+    th{text-align:left;color:#cbd5e1}
+    .pill{font-size:12px;padding:2px 8px;border-radius:999px;border:1px solid #374151;background:#0b1220}
+    .muted{color:#94a3b8;font-size:12px}
+  </style>
 </head>
 <body>
-<h1>Precios Online</h1>
-<p>Visor de listas desplegado en Render.</p>
+<header>
+  <h3 style="margin:0">Precios Online</h3>
+</header>
+
+<div class="container">
+  <section class="card">
+    <div class="row">
+      <select id="category"></select>
+      <input id="q" placeholder="Buscar en todo (código, modelo, descripción…)" style="flex:1" />
+      <button id="btnSearch">Buscar</button>
+      <label><input type="checkbox" id="showTax" checked> Mostrar IVU (11.5%)</label>
+    </div>
+    <table id="tbl">
+      <thead><tr><th>Code</th><th>Model</th><th>Description</th><th>Price</th><th>Brand</th><th>Category</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+</div>
+
 <script>
-fetch('/api/categories').then(r=>r.json()).then(d=>{
-  document.body.insertAdjacentHTML('beforeend','<pre>'+JSON.stringify(d,null,2)+'</pre>');
-});
+const $ = s=>document.querySelector(s);
+const cents = n => (n==null||isNaN(Number(n)))? "" : Number(n).toFixed(2);
+
+async function loadCats(){
+  const res = await fetch('/api/categories');
+  const data = await res.json();
+  const sel = $("#category");
+  sel.innerHTML = '<option value="">— Ver por categoría —</option>' + (data.categories||[]).map(c=>`<option>${c}</option>`).join('');
+}
+
+function rowHtml(it, includeTax){
+  const price = includeTax ? (it.price_with_tax ?? it.price) : it.price;
+  return `<tr>
+    <td>${it.code??""}</td>
+    <td>${it.model??""}</td>
+    <td>${it.description??""}</td>
+    <td>$ ${cents(price)}</td>
+    <td>${it.brand??""}</td>
+    <td><span class="pill">${it._category??""}</span></td>
+  </tr>`;
+}
+
+async function loadCat(cat){
+  const res = await fetch('/api/items?category=' + encodeURIComponent(cat));
+  const data = await res.json();
+  const inc = $("#showTax").checked;
+  $("#tbl tbody").innerHTML = (data.items||[]).map(it=>rowHtml(it, inc)).join('') || '<tr><td colspan="6" class="muted">Sin resultados.</td></tr>';
+}
+
+async function searchAll(q){
+  const res = await fetch('/api/search?q=' + encodeURIComponent(q));
+  const data = await res.json();
+  const inc = $("#showTax").checked;
+  $("#tbl tbody").innerHTML = (data.items||[]).map(it=>rowHtml(it, inc)).join('') || '<tr><td colspan="6" class="muted">Sin resultados.</td></tr>';
+}
+
+$("#btnSearch").addEventListener("click", ()=>{ const q=$("#q").value.trim(); if(q) searchAll(q); });
+$("#q").addEventListener("keydown", e=>{ if(e.key==='Enter'){const q=$("#q").value.trim();if(q) searchAll(q);} });
+$("#category").addEventListener("change", e=>{const v=e.target.value;$("#q").value="";if(v) loadCat(v);});
+$("#showTax").addEventListener("change", ()=>{const q=$("#q").value.trim();const cat=$("#category").value;if(q) searchAll(q);else if(cat) loadCat(cat);});
+
+loadCats();
 </script>
 </body>
 </html>
