@@ -1,0 +1,58 @@
+[
+  {
+    "code": "AC02020_-_1_4_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC02020 - 1/4 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 6.0,
+    "unit": "ea"
+  },
+  {
+    "code": "AC03020_-_3_8_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC03020 - 3/8 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 8.0,
+    "unit": "ea"
+  },
+  {
+    "code": "AC05020_-_1_2_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC05020 - 1/2 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 12.0,
+    "unit": "ea"
+  },
+  {
+    "code": "AC06020_-_5_8_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC06020 - 5/8 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 14.0,
+    "unit": "ea"
+  },
+  {
+    "code": "AC10020_-_7_8_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC10020 - 7/8 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 25.0,
+    "unit": "ea"
+  },
+  {
+    "code": "AC12020_-_1_1_8_TUBERÍA_RÍGIDA_A_C_R",
+    "description": "AC12020 - 1 1/8 TUBERÍA RÍGIDA A.C.R.",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 35.0,
+    "unit": "ea"
+  },
+  {
+    "code": "M03020_-_3_8_TIPO_RÍGIDA_SISTEMA_SOLAR",
+    "description": "M03020 - 3/8 TIPO RÍGIDA (SISTEMA SOLAR)",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 4.0,
+    "unit": "ea"
+  },
+  {
+    "code": "M06020_-_1_2_TIPO_RÍGIDA_SISTEMA_SOLAR",
+    "description": "M06020 - 1/2 TIPO RÍGIDA (SISTEMA SOLAR)",
+    "brand": "TUBERIA_RIGIDA",
+    "price": 6.0,
+    "unit": "ea"
+  }
+]

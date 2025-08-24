@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<title>Precios Online</title>
+</head>
+<body>
+<h1>Precios Online</h1>
+<p>Visor de listas desplegado en Render.</p>
+<script>
+fetch('/api/categories').then(r=>r.json()).then(d=>{
+  document.body.insertAdjacentHTML('beforeend','<pre>'+JSON.stringify(d,null,2)+'</pre>');
+});
+</script>
+</body>
+</html>

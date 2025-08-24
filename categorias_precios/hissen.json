@@ -1,0 +1,30 @@
+[
+  {
+    "code": "12K_220V_-_22_SEER",
+    "description": "12K (220V) - 22 SEER",
+    "brand": "HISSEN",
+    "price": 455.0,
+    "unit": "ea"
+  },
+  {
+    "code": "18K_220V_-_22_SEER",
+    "description": "18K (220V) - 22 SEER",
+    "brand": "HISSEN",
+    "price": 710.0,
+    "unit": "ea"
+  },
+  {
+    "code": "24K_220V_-_22_SEER",
+    "description": "24K (220V) - 22 SEER",
+    "brand": "HISSEN",
+    "price": 960.0,
+    "unit": "ea"
+  },
+  {
+    "code": "12K_110V_-_22_SEER",
+    "description": "12K (110V) - 22 SEER",
+    "brand": "HISSEN",
+    "price": 485.0,
+    "unit": "ea"
+  }
+]

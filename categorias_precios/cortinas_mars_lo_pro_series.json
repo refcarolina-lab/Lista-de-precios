@@ -1,0 +1,37 @@
+[
+  {
+    "code": "LPV36_-_3_PIES_900_CFM_PESO_35_LBS",
+    "description": "LPV36 - 3 pies 900 CFM peso 35 lbs",
+    "brand": "CORTINAS_MARS_LO_PRO_SERIES",
+    "price": 1286.25,
+    "unit": "ea"
+  },
+  {
+    "code": "LPV42_-_3_½_PIES_1_050_CFM_PESO_38_LBS",
+    "description": "LPV42 - 3 ½ pies 1,050 CFM peso 38 lbs",
+    "brand": "CORTINAS_MARS_LO_PRO_SERIES",
+    "price": 1350.0,
+    "unit": "ea"
+  },
+  {
+    "code": "LPV48_-_4_PIES_1_200_CFM_PESO_42_LBS",
+    "description": "LPV48 - 4 pies 1,200 CFM peso 42 lbs",
+    "brand": "CORTINAS_MARS_LO_PRO_SERIES",
+    "price": 1417.5,
+    "unit": "ea"
+  },
+  {
+    "code": "LPV60_-_5_PIES_1_500_CFM_PESO_51_LBS",
+    "description": "LPV60 - 5 pies 1,500 CFM peso 51 lbs",
+    "brand": "CORTINAS_MARS_LO_PRO_SERIES",
+    "price": 1470.0,
+    "unit": "ea"
+  },
+  {
+    "code": "LPV72_-_6_PIES_1_800_CFM_PESO_61_LBS",
+    "description": "LPV72 - 6 pies 1,800 CFM peso 61 lbs",
+    "brand": "CORTINAS_MARS_LO_PRO_SERIES",
+    "price": 1586.25,
+    "unit": "ea"
+  }
+]

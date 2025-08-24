@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12K_220V_-_21_5_SEER",
+    "description": "12K (220V) - 21.5 SEER",
+    "brand": "TGM_ARCTIC",
+    "price": 455.0,
+    "unit": "ea"
+  },
+  {
+    "code": "18K_220V_-_21_SEER",
+    "description": "18K (220V) - 21 SEER",
+    "brand": "TGM_ARCTIC",
+    "price": 681.04,
+    "unit": "ea"
+  },
+  {
+    "code": "24K_220V_-_21_SEER",
+    "description": "24K (220V) - 21 SEER",
+    "brand": "TGM_ARCTIC",
+    "price": 968.71,
+    "unit": "ea"
+  },
+  {
+    "code": "36K_220V_-_21_SEER",
+    "description": "36K (220V) - 21 SEER",
+    "brand": "TGM_ARCTIC",
+    "price": 1780.43,
+    "unit": "ea"
+  },
+  {
+    "code": "12K_110V_-_21_5_SEER",
+    "description": "12K (110V) - 21.5 SEER",
+    "brand": "TGM_ARCTIC",
+    "price": 506.77,
+    "unit": "ea"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "BEL0040BS6ECAB0000_LET040_-_R404",
+    "description": "BEL0040BS6ECAB0000 (LET040 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 1045.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0065BS6ECAB0000_LET065_-_R404",
+    "description": "BEL0065BS6ECAB0000 (LET065 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 1329.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0075BS6ECAB0000_LET075_-_R404",
+    "description": "BEL0075BS6ECAB0000 (LET075 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 1402.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0100BS6ECAB0000_LET100_-_R404",
+    "description": "BEL0100BS6ECAB0000 (LET100 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 1591.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0120BS6ECAB0000_LET120_-_R404",
+    "description": "BEL0120BS6ECAB0000 (LET120 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 2011.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0140BS6ECAB0000_LET140_-_R404",
+    "description": "BEL0140BS6ECAB0000 (LET140 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 2358.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0160BS6ECAB0000_LET160_-_R404",
+    "description": "BEL0160BS6ECAB0000 (LET160 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 2640.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0200BS6ECAB0000_LET200_-_R404",
+    "description": "BEL0200BS6ECAB0000 (LET200 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 3386.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BEL0240BS6ECAB0000_LET240_-_R404",
+    "description": "BEL0240BS6ECAB0000 (LET240 - R404)",
+    "brand": "BOHN_LOW_TEMP",
+    "price": 3838.0,
+    "unit": "ea"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12K_220V_-_22_SEER",
+    "description": "12K (220V) - 22 SEER",
+    "brand": "TGM_POLAR",
+    "price": 426.93,
+    "unit": "ea"
+  },
+  {
+    "code": "18K_220V_-_22_SEER",
+    "description": "18K (220V) - 22 SEER",
+    "brand": "TGM_POLAR",
+    "price": 666.0,
+    "unit": "ea"
+  },
+  {
+    "code": "24K_220V_-_22_SEER_R410",
+    "description": "24K (220V) - 22 SEER (R410)",
+    "brand": "TGM_POLAR",
+    "price": 927.0,
+    "unit": "ea"
+  },
+  {
+    "code": "36K_220V_-_21_SEER",
+    "description": "36K (220V) - 21 SEER",
+    "brand": "TGM_POLAR",
+    "price": 1743.42,
+    "unit": "ea"
+  },
+  {
+    "code": "12K_110V_-_22_SEER",
+    "description": "12K (110V) - 22 SEER",
+    "brand": "TGM_POLAR",
+    "price": 458.49,
+    "unit": "ea"
+  }
+]

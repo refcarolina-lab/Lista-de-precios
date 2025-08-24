@@ -1,0 +1,324 @@
+[
+  {
+    "code": "R123100_-_R123_100_LBS_A_C",
+    "description": "R123100 - R123 100 LBS. A/C",
+    "brand": "REFRIGERANTE",
+    "price": 3200.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R123200_-_R123_200_LBS_A_C",
+    "description": "R123200 - R123 200 LBS. A/C",
+    "brand": "REFRIGERANTE",
+    "price": 3590.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R12332DV_-_R1233ZD_SOLSTICE_2D_100_LBS",
+    "description": "R12332DV - R1233ZD SOLSTICE 2D 100 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 2660.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R2230_-_R22_30_LBS_A_C_REFRIGERATION",
+    "description": "R2230 - R22 30 LBS. A/C REFRIGERATION",
+    "brand": "REFRIGERANTE",
+    "price": 1695.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R407A25_-_R407A_25_LBS",
+    "description": "R407A25 - R407A 25 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 549.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R407A115_-_R407A_115_LBS_REEMP_R502_LOW_MED_TEMP_REFRIG_POE",
+    "description": "R407A115 - R407A 115 LBS. REEMP. R502 LOW & MED TEMP REFRIG. POE",
+    "brand": "REFRIGERANTE",
+    "price": 2395.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R407C115_-_R407C_115_LBS_R-22_ACEITE_POE_A_C",
+    "description": "R407C115 - R407C 115 LBS. (R-22+) + ACEITE POE A/C",
+    "brand": "REFRIGERANTE",
+    "price": 2495.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R407C25_-_R407C_25_LBS",
+    "description": "R407C25 - R407C 25 LBS.",
+    "brand": "REFRIGERANTE",
+    "price": 549.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R44825_-_R448A_25_LBS_NUEVO_ALTERNATIVA_PARA_R404",
+    "description": "R44825 - R448A 25 LBS. NUEVO ALTERNATIVA PARA R404",
+    "brand": "REFRIGERANTE",
+    "price": 395.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R448100_-_R448A_100_LBS",
+    "description": "R448100 - R448A 100 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 1495.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R452A25_-_R452A_25_LBS_SOLSTICE_LOW_MED_TRANSPORTE_PLUGIN",
+    "description": "R452A25 - R452A 25 LBS. SOLSTICE LOW/MED – Transporte plugin",
+    "brand": "REFRIGERANTE",
+    "price": 615.0,
+    "unit": "ea"
+  },
+  {
+    "code": "RLT407F115_-_RLT407F_115_LBS_REEMP_R22_MED_LOW_REFRIG_ACEITE_POE",
+    "description": "RLT407F115 - RLT407F 115 LBS. REEMP. R22 MED & LOW REFRIG. ACEITE POE",
+    "brand": "REFRIGERANTE",
+    "price": 2550.0,
+    "unit": "ea"
+  },
+  {
+    "code": "RLT407F25_-_RLT407F_25_LBS",
+    "description": "RLT407F25 - RLT407F 25 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 549.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R422D110_-_R422D_110_LBS_REEMP_DIRECTO_R22_A_C_REFRIG_DROP-IN",
+    "description": "R422D110 - R422D 110 LBS. REEMP. DIRECTO R22 A/C REFRIG. (DROP-IN)",
+    "brand": "REFRIGERANTE",
+    "price": 2295.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R422D25_-_R422D_25_LBS",
+    "description": "R422D25 - R422D 25 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 549.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R404100_-_R404A_100_LBS_MED_LOW_TEMP_REFRIGERATION",
+    "description": "R404100 - R404A 100 LBS. MED & LOW TEMP REFRIGERATION",
+    "brand": "REFRIGERANTE",
+    "price": 2690.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R40424_-_R404A_24_LBS",
+    "description": "R40424 - R404A 24 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 519.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R404270ZQ_-_R404A_27_OZ",
+    "description": "R404270ZQ - R404A 27 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 64.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R40824_-_R408A_24_LBS_502",
+    "description": "R40824 - R408A 24 LBS. (502)",
+    "brand": "REFRIGERANTE",
+    "price": 1395.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R408100_-_R408A_100_LBS",
+    "description": "R408100 - R408A 100 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 4150.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R40930_-_R409A_30_LBS_R12",
+    "description": "R40930 - R409A 30 LBS. (R12)",
+    "brand": "REFRIGERANTE",
+    "price": 1450.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R410100_-_R410A_100_LBS_AZ_O_AIRE_ACOND_R-22_ACEITE_POE",
+    "description": "R410100 - R410A 100 LBS. AZ O AIRE ACOND. (R-22) ACEITE POE",
+    "brand": "REFRIGERANTE",
+    "price": 1595.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R41025_-_R410A_25_LBS_AZ_O",
+    "description": "R41025 - R410A 25 LBS. AZ O",
+    "brand": "REFRIGERANTE",
+    "price": 279.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R41028OZ_-_R410A_LATA_28_OZ",
+    "description": "R41028oz - R410A LATA 28 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 54.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R410LEAK_-_R410A_LEAK_SEALER",
+    "description": "R410LEAK - R410A LEAK SEALER",
+    "brand": "REFRIGERANTE",
+    "price": 58.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R454B20_-_R454B_20_LBS",
+    "description": "R454B20 - R454B 20 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 550.0,
+    "unit": "ea"
+  },
+  {
+    "code": "RAZ50100_-_R_AZ50_100_LBS_R507A",
+    "description": "RAZ50100 - R AZ50 100 LBS. (R507A)",
+    "brand": "REFRIGERANTE",
+    "price": 2259.0,
+    "unit": "ea"
+  },
+  {
+    "code": "RAZ5025_-_R_AZ50_25_LBS_R507A",
+    "description": "RAZ5025 - R AZ50 25 LBS. (R507A)",
+    "brand": "REFRIGERANTE",
+    "price": 549.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R51330_-_R513A_LATA_30_LBS",
+    "description": "R51330 - R513A LATA 30 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 595.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R51324OZ_-_R513A_LATA_24_OZ",
+    "description": "R51324OZ - R513A LATA 24 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 92.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R134125_-_R134A_LATA_25_OZ_A_C_COND_REFRIGERATION",
+    "description": "R134125 - R134A LATA 25 OZ. A/C COND. & REFRIGERATION",
+    "brand": "REFRIGERANTE",
+    "price": 18.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R13430A_-_R134A_30_LBS",
+    "description": "R13430A - R134A 30 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 319.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R13412_-_R134A_12_OZ_LATA_A_C_REFRIGERATION_12_50_POR_CAJA",
+    "description": "R13412 - R134A 12 OZ. LATA A/C & REFRIGERATION ($12.50 por caja)",
+    "brand": "REFRIGERANTE",
+    "price": 11.85,
+    "unit": "ea"
+  },
+  {
+    "code": "R13413LS_-_R134A_12_OZ_LATA_REFRIGERANTE_CON_SELLADOR",
+    "description": "R13413LS - R134A 12 OZ. LATA REFRIGERANTE CON SELLADOR",
+    "brand": "REFRIGERANTE",
+    "price": 17.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R290_-_REFRIGERANTE_PROPANO_12_3",
+    "description": "R290 - REFRIGERANTE: PROPANO 12.3",
+    "brand": "REFRIGERANTE",
+    "price": 21.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R29012LBS_-_REFRIGERANTE_PROPANO_12_LBS",
+    "description": "R29012LBS - REFRIGERANTE PROPANO 12 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 199.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R600A_-_REFRIGERANTE_ISOBUTANE_14_8_OZ",
+    "description": "R600a - REFRIGERANTE ISOBUTANE 14.8 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 22.95,
+    "unit": "ea"
+  },
+  {
+    "code": "3266_-_GAUGE_SET_R290_R600_W_HANDLE",
+    "description": "3266 - Gauge Set R290/R600 W/ Handle",
+    "brand": "REFRIGERANTE",
+    "price": 42.95,
+    "unit": "ea"
+  },
+  {
+    "code": "3390_-_CHARGING_SET_R290_R600",
+    "description": "3390 - Charging Set R290/R600",
+    "brand": "REFRIGERANTE",
+    "price": 18.95,
+    "unit": "ea"
+  },
+  {
+    "code": "R1234YFF_-_REF_NEW_CARGA_R1234YF_LATA_8_OZ",
+    "description": "R1234YFF - REF NEW CARGA R1234YF LATA 8 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 42.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R1234YF10_-_REF_NEW_CARGA_R1234YF_WHITE_10_LBS",
+    "description": "R1234YF10 - REF NEW CARGA R1234YF WHITE 10 LBS",
+    "brand": "REFRIGERANTE",
+    "price": 635.0,
+    "unit": "ea"
+  },
+  {
+    "code": "VL1234_-_VL_1234YF_NUEVO_ALTERNATIVA_9300",
+    "description": "VL1234 - VL 1234YF NUEVO ALTERNATIVA (9300)",
+    "brand": "REFRIGERANTE",
+    "price": 8.5,
+    "unit": "ea"
+  },
+  {
+    "code": "EZFLUSH24_-_SOLSTICE_FLUSH_W_22LBS",
+    "description": "EZFLUSH24 - SOLSTICE FLUSH W. #22LBS",
+    "brand": "REFRIGERANTE",
+    "price": 249.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R3220_-_R32_LATA_22_OZ",
+    "description": "R3220 - R32 LATA 22 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 320.0,
+    "unit": "ea"
+  },
+  {
+    "code": "R3228OZ_-_R32_LATA_28_OZ",
+    "description": "R3228OZ - R32 LATA 28 OZ",
+    "brand": "REFRIGERANTE",
+    "price": 44.95,
+    "unit": "ea"
+  },
+  {
+    "code": "21117_-_CHARGING_SEALER_KIT_R290_R600",
+    "description": "21117 - CHARGING SEALER KIT R290/R600",
+    "brand": "REFRIGERANTE",
+    "price": 118.95,
+    "unit": "ea"
+  }
+]

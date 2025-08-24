@@ -1,0 +1,72 @@
+[
+  {
+    "code": "BELO065AS6ACAB0000_COOLER",
+    "description": "BELO065AS6ACAB0000 (COOLER)",
+    "brand": "DIFUSORES_BOHN",
+    "price": 741.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO066AS6ACAB0000",
+    "description": "BELO066AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 814.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO105AS6ACAB0000",
+    "description": "BELO105AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1065.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO115AS6ACAB0000",
+    "description": "BELO115AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1160.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO125AS6ACAB0000",
+    "description": "BELO125AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1265.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO135AS6ACAB0000",
+    "description": "BELO135AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1328.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO145AS6ACAB0000",
+    "description": "BELO145AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1612.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO190AS6ACAB0000",
+    "description": "BELO190AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 1905.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO205AS6ACAB0000",
+    "description": "BELO205AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 2126.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BELO295AS6ACAB0000",
+    "description": "BELO295AS6ACAB0000",
+    "brand": "DIFUSORES_BOHN",
+    "price": 2590.0,
+    "unit": "ea"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "code": "STD_36_-_1_2_HP_2550_CFM_3",
+    "description": "STD 36 - 1/2 HP 2550 CFM 3’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 1365.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_48_-_1_2_HP_2550_CFM_4",
+    "description": "STD 48 - 1/2 HP 2550 CFM 4’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 1470.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_60_-_1_2_HP_2550_CFM_5",
+    "description": "STD 60 - 1/2 HP 2550 CFM 5’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 2205.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_72-2_-_2_1_2_HP_5100_CFM_6",
+    "description": "STD 72-2 - 2–1/2 HP 5100 CFM 6’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 2520.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_84-2_-_2_1_2_HP_5100_CFM_7",
+    "description": "STD 84-2 - 2–1/2 HP 5100 CFM 7’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 2604.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_96-2_-_2_1_2_HP_5100_CFM_8",
+    "description": "STD 96-2 - 2–1/2 HP 5100 CFM 8’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 2703.0,
+    "unit": "ea"
+  },
+  {
+    "code": "STD_120-3_-_3_1_2_HP_7650_CFM_10",
+    "description": "STD 120-3 - 3–1/2 HP 7650 CFM 10’",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 3885.0,
+    "unit": "ea"
+  },
+  {
+    "code": "M78-2_-_MOTOR_SOLO_1_2_HP",
+    "description": "M78-2 - MOTOR SOLO 1/2 HP",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 892.5,
+    "unit": "ea"
+  },
+  {
+    "code": "99014_-_LIMIT_SWITCH_20A",
+    "description": "99014 - LIMIT SWITCH 20A",
+    "brand": "CORTINAS_MARS_STANDARD",
+    "price": 173.25,
+    "unit": "ea"
+  }
+]

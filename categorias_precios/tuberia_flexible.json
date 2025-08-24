@@ -1,0 +1,100 @@
+[
+  {
+    "code": "D04050P_-_1_4_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D04050P - 1/4 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 3.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D04050P_-_1_4_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D04050P - 1/4 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 78.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D05050P_-_5_16_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D05050P - 5/16 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 4.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D05050P_-_5_16_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D05050P - 5/16 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 105.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D06050P_-_3_8_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D06050P - 3/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 4.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D06050P_-_3_8_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D06050P - 3/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 109.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D08050P_-_1_2_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D08050P - 1/2 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 5.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D08050P_-_1_2_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D08050P - 1/2 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 158.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D010050P_-_5_8_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D010050P - 5/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 6.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D010050P_-_5_8_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D010050P - 5/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 207.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D012050P_-_3_4_TUBERÍA_FLEXIBLE-PIE",
+    "description": "D012050P - 3/4 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 6.0,
+    "unit": "pie"
+  },
+  {
+    "code": "D012050P_-_3_4_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D012050P - 3/4 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 250.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D014050P_-_7_8_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D014050P - 7/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 369.0,
+    "unit": "rollo"
+  },
+  {
+    "code": "D011850P_-_1_1_8_TUBERÍA_FLEXIBLE-ROLLO",
+    "description": "D011850P - 1 1/8 TUBERÍA FLEXIBLE",
+    "brand": "TUBERIA_FLEXIBLE",
+    "price": 550.0,
+    "unit": "rollo"
+  }
+]

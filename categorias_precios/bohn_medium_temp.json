@@ -1,0 +1,72 @@
+[
+  {
+    "code": "BCH0005MBACZA0800_1_2HP_7_600_BTU",
+    "description": "BCH0005MBACZA0800 (1/2HP 7,600 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 3353.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0008MBACZA0800_3_4HP_8_980_BTU",
+    "description": "BCH0008MBACZA0800 (3/4HP 8,980 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 3407.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0010MBACZA0800_1HP_12_200_BTU",
+    "description": "BCH0010MBACZA0800 (1HP 12,200 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 3742.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0012MBACZA0800_1-1_4HP_14_320_BTU",
+    "description": "BCH0012MBACZA0800 (1-1/4HP 14,320 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 3937.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0015MBACZA0800_1-1_2HP_17_540_BTU",
+    "description": "BCH0015MBACZA0800 (1-1/2HP 17,540 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 4252.5,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0020MBACZA0800_2HP_20_700_BTU",
+    "description": "BCH0020MBACZA0800 (2HP 20,700 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 4488.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0025MBACZA0800_2-1_2HP_22_860_BTU",
+    "description": "BCH0025MBACZA0800 (2-1/2HP 22,860 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 4596.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0030MBACZA0800_3HP_31_930_BTU",
+    "description": "BCH0030MBACZA0800 (3HP 31,930 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 4975.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0045MBACZA0800_4-1_2HP_39_500_BTU",
+    "description": "BCH0045MBACZA0800 (4-1/2HP 39,500 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 5460.0,
+    "unit": "ea"
+  },
+  {
+    "code": "BCH0050MBACZA0800_5HP_42_790_BTU",
+    "description": "BCH0050MBACZA0800 (5HP 42,790 BTU)",
+    "brand": "BOHN_MEDIUM_TEMP",
+    "price": 6273.0,
+    "unit": "ea"
+  }
+]

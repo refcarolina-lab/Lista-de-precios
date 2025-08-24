@@ -1,0 +1,37 @@
+[
+  {
+    "code": "12K_110V_-_22_SEER",
+    "description": "12K (110V) - 22 SEER",
+    "brand": "AUX",
+    "price": 417.13,
+    "unit": "ea"
+  },
+  {
+    "code": "12K_220V_-_22_SEER",
+    "description": "12K (220V) - 22 SEER",
+    "brand": "AUX",
+    "price": 384.73,
+    "unit": "ea"
+  },
+  {
+    "code": "18K_220V_-_22_SEER",
+    "description": "18K (220V) - 22 SEER",
+    "brand": "AUX",
+    "price": 608.26,
+    "unit": "ea"
+  },
+  {
+    "code": "24K_220V_-_22_SEER",
+    "description": "24K (220V) - 22 SEER",
+    "brand": "AUX",
+    "price": 863.66,
+    "unit": "ea"
+  },
+  {
+    "code": "36K_220V_-_22_SEER",
+    "description": "36K (220V) - 22 SEER",
+    "brand": "AUX",
+    "price": 1517.04,
+    "unit": "ea"
+  }
+]
